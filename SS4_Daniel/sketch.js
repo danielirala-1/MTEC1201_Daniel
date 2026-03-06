@@ -14,7 +14,7 @@ const animationTime = 3 * millisPerSecond
 function preload()
 {
   
-  penguin = loadImage("images/penguin.png");
+  penguin = loadImage("images/penguin.jpg");
 
 }
 
